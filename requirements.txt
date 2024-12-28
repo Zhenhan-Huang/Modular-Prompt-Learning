@@ -1,0 +1,4 @@
+dassl @ file:///home/huangz12/scratch/packages/Dassl.pytorch
+ftfy==6.2.0
+tqdm==4.66.2
+torch==1.12.1

@@ -76,7 +76,7 @@ If you find our work helpful, please consider citing:
 ```bibtex
 @inproceedings{huangmodular,
     title={Modular Prompt Learning Improves Vision-Language Models},
-    author={Zhenhan Huang, Tejaswini Pedapati, Pin-Yu Chen and Jianxi Gao},
+    author={Huang, Zhenhan Huang and Pedapati, Tejaswini and Chen, Pin-Yu and Gao, Jianxi},
     booktitle={IEEE International Conference on Acoustics, Speech, and Signal Processing},
     year={2025}
 }
